@@ -1,10 +1,3 @@
-"""
-Learned how to...
-- use recursive functions (in solve() function)
-- become more fluent with matrices and imbedded matricies
-- become more fluent in for loops
-"""
-
 
 def empty_check(example):
     for r in range(9):
